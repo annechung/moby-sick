@@ -6,7 +6,7 @@ Try it out!
 
 ```
 pip3 install pygame 
-# or pip3 install pygame==2.0.0.dev6
+# you may have to do pip3 install pygame==2.0.0.dev6
 
 cd images
 python3 CPTmoby.py
