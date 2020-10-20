@@ -1,8 +1,12 @@
 # moby-sick
 
-A game I made in high school, pls don't laugh at me 
+You're Moby the homesick whale. Fight evil pirates and eat fish to make it home alive!!
+I made this in high school pls don't laugh at me
 
-Try it out!
+![Demo gif](https://github.com/annechung/moby-sick/moby-sick-demo.gif)
+
+
+# Try it out!
 
 ```
 pip3 install pygame 
