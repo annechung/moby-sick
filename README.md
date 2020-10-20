@@ -3,7 +3,7 @@
 You're Moby the homesick whale. Fight evil pirates and eat fish to make it home alive!!
 I made this in high school pls don't laugh at me
 
-![Demo gif](https://github.com/annechung/moby-sick/moby-sick-demo.gif)
+![Demo gif](moby-sick-demo.gif)
 
 
 # Try it out!
